@@ -463,7 +463,7 @@
     },
     {
       "name": "easygerber",
-      "description": "Design circuit boards with published EasyGerber components, generate PCB layouts, inspect previews and layout checks, and export manufacturing files through EasyGerber’s hosted MCP service.",
+      "description": "AI printed circuit board (PCB) design with EasyGerber: search published electronic components, edit schematics, generate layouts with automatic placement and routing, inspect 3D previews, and export Gerber manufacturing files, bills of materials (BOM), placement files, and editable EasyGerber designs.",
       "category": "development",
       "source": {
         "source": "url",
@@ -475,8 +475,12 @@
       "keywords": [
         "easygerber",
         "easy gerber",
-        "easygerber pcb",
-        "easygerber circuit board"
+        "easygerber ai pcb design",
+        "easygerber circuit boards",
+        "easygerber schematic",
+        "easygerber pcb layout",
+        "easygerber gerber export",
+        "easygerber bom"
       ],
       "domains": [
         "easygerber.com",
