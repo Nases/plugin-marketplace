@@ -460,6 +460,28 @@
       "homepage": "https://clerk.com/docs",
       "keywords": ["clerk", "clerk auth", "clerk authentication", "clerk user management", "clerk organizations", "clerk billing", "clerk webhooks", "clerk mcp"],
       "domains": ["clerk.com", "dashboard.clerk.com"]
+    },
+    {
+      "name": "easygerber",
+      "description": "Design circuit boards with published EasyGerber components, generate PCB layouts, inspect previews and layout checks, and export manufacturing files through EasyGerber’s hosted MCP service.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/EasyGerber/easygerber-agent-plugin.git",
+        "sha": "ca459c87a43e91ae9bc92bafa713b179d2be0ece",
+        "path": "claude"
+      },
+      "homepage": "https://easygerber.com/agents",
+      "keywords": [
+        "easygerber",
+        "easy gerber",
+        "easygerber pcb",
+        "easygerber circuit board"
+      ],
+      "domains": [
+        "easygerber.com",
+        "www.easygerber.com"
+      ]
     }
   ]
 }
